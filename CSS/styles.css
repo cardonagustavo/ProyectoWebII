@@ -1,0 +1,12 @@
+body{
+    background-image: url(../IMG/free-photo-of-nieve-montanas-mujer-lago.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+
+.border{
+    border: 2px dashed rgb(247, 208, 10);
+    border-radius: 20px;
+    padding: 20px;
+}

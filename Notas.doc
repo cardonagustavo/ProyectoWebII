@@ -1,0 +1,55 @@
+Get: toma el dato y lo entrega o almacena sin modificar, si el espacio esta vacio lo almacena, en la pagiana y posteriormente lo enviamos a la base de datos.
+Set: toma el dato lo modifica y lo almacena, si el espacio esta ocupado Set no nos permite limpiar el campo para almacenar el nuevo dato.
+Post: nos permite enviar datos ya que crea un arreglo de los datos capturados desde la interfaz, cada campo capturado debe tener un identificador o ID pra poder saber que datos y en que orden los estamos capturando.
+Action: es 
+
+lo que debemos saber de cada lenguaje
+ - Como hacer comentarios.
+ - Como mostrar mensajes en pantalla, comunicacion pc chumano.
+ - Escribir mensajes en pc, Variables - Ciclos (for y while) - Condicionales.
+ - Hacer CRUD
+ - Palabra seguida de () es una funcion, en java metodo.
+ - New es hacer una copia de una clase o instanciar la clase.
+ - Clase una cosa que hace algo y tiene muchas funciones o metodos.
+ - Funcion tiene parametros de entrada y de salida, cuando no recibe ni retorna es una funcion vacia (VOID).
+ - 
+
+ Programacion basica es:
+ var - Condicionales - ciclo - funcion - clase - proyecto
+ --> --> --> --> --> --> --> --> 
+
+POO:
+var - Condicionales - ciclo - funcion - clase - proyecto
+
+            <-- <-- <-- <-- <-- <-- <-- <-- <-- <-- <-- <--
+PHP: leguaje de etiquedao <?php  "codigo"  ?> 
+
+1: 
+// comentarios
+/* Multi linea */ 
+
+2: 
+print("Hello "); 
+echo "Word! ";
+Recibe etiquetas HTML 
+<h1>Word</h1>
+
+3: 
+variables inician con $
+concatena .$edad
+"'edad' " muestra el valor
+' " edad" ' muestra texto
+
+Encriptacion:
+password_hash encriptar la clave, metodo clave-valor metodo TCP.
+
+Conexion
+- BD
+- Servidor
+- User
+- Contraseña
+
+dosformas de conexxion.
+1 - Mysql
+2 - msql link - solo msql 
+3 - PDO - conecta con cualquier base datos.
