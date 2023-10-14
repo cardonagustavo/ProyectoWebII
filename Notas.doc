@@ -53,3 +53,5 @@ dosformas de conexxion.
 1 - Mysql
 2 - msql link - solo msql 
 3 - PDO - conecta con cualquier base datos.
+
+- Inyeccion SQL,  
